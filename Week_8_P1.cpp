@@ -84,5 +84,6 @@ int main() {
     Init_List(&lst);
     Nhap_List(&lst);
     In_List(&lst);
+    Dispose_List(&lst);
     return 0;
 }
